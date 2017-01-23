@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-mihome",
+  "version": "0.1.0",
+  "description": "Mi Home plugin for HomeBridge (API 2.0): https://github.com/nfarina/homebridge",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luisiam/homebridge-mihome.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Luis Iam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisiam/homebridge-mihome/issues"
+  },
+  "homepage": "https://github.com/luisiam/homebridge-mihome#readme",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.3.0"
+  }
+}
